@@ -3,7 +3,7 @@ This is an application that allows you to track your budgets. There are differen
 
 ### Usage
 
-To use this application please visit =https://git.heroku.com/budget-tracker-adam12.git.=
+To use this application please visit https://git.heroku.com/budget-tracker-adam12.git.
 
 ### Screenshot
 
@@ -11,4 +11,4 @@ To use this application please visit =https://git.heroku.com/budget-tracker-adam
 
 ### Heroku Link
 
-=https://git.heroku.com/budget-tracker-adam12.git.=
+https://git.heroku.com/budget-tracker-adam12.git.
